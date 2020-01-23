@@ -1,0 +1,10 @@
+﻿  GameLoop.cpp
+  Main.cpp
+  Pong.cpp
+C:\Users\Daiya\Documents\code\Pong\Pong\GameLoop.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daiya\Documents\code\Pong\Pong\Pong.cpp(13,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pong.vcxproj -> C:\Users\Daiya\Documents\code\Pong\Pong\x64\Release\Pong.exe
